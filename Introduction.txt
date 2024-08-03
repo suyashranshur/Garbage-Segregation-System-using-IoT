@@ -1,0 +1,17 @@
+This project is an intelligent garbage segregation system that utilizes IoT technology to efficiently separate dry and wet waste. It is equipped with moisture sensors, IR sensors, and ultrasonic sensors to accurately identify and sort different types of waste. Additionally, the system features a notification mechanism to alert users when the dustbin is full. For sustainability, the system is designed with an in-built solar panel, allowing it to charge itself.
+
+Key Features:
+Automatic Waste Segregation: Differentiates between dry and wet waste using moisture and IR sensors.
+Full Dustbin Notification: Alerts users when the dustbin reaches its capacity via an ultrasonic sensor.
+Self-Charging: Equipped with a solar panel to ensure continuous operation.
+
+Components
+•	Arduino UNO
+•	Moisture Sensor
+•	IR Sensor
+•	Ultrasonic Sensor
+•	OLED Display (SSD1306)
+•	Solar Panel
+•	Battery
+•	Connecting Wires
+•	Dustbin (with separate compartments for dry and wet waste)
